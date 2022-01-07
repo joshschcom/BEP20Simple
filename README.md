@@ -6,7 +6,7 @@
 Wir haben die Solidity-Version wie 0.8.4in unserem Code angegeben, daher müssen wir auch im Remix dieselbe Compiler-Version auswählen.
 
 # 4. Nach erfolgreicher Kompilierung können Sie mit dem Bereitstellungsfenster fortfahren, indem Sie auf das Symbol unter dem Symbol „Compiler“ klicken.
-Das ENVIRONMENTsollte so sein, Injected Web3wie wir MetaMask für die Bereitstellung verwenden. Stellen Sie außerdem sicher, dass Sie den SampleBEP20TokenVertrag in der CONTRACTDropdown-Liste (über der DeploySchaltfläche) ausgewählt haben.
+Das ENVIRONMENTsollte so sein(JavaScript VM), Injected Web3wie wir MetaMask für die Bereitstellung verwenden. Stellen Sie außerdem sicher, dass Sie den SampleBEP20TokenVertrag in der CONTRACTDropdown-Liste (über der DeploySchaltfläche) ausgewählt haben.
 
 Hinweis : Wir benötigen einige Testnetz-BNB, um das Gas während der Vertragserstellung zu bezahlen. Wir können Testnetz-BNB von diesem Wasserhahn erhalten. 
 
